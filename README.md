@@ -15,7 +15,7 @@ I'm Yumi C. Pascual, a coding enthusiast with strong database management skills.
 - 🏆 [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=33E590C6476717B4D090CB63B37BDF619F11092F2279EB368604B596B9707787&fbclid=IwAR0VqWSFxLZU_OPrkySsYel2JgmtmZi1xVu0f8IAnA5Wd2na98xtW_T0idI
 )
 - 🏆 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a2e5bb34098041feaa11195b34471ac6)
-
+- 🏆 [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/3b23784d3e824712bd9299f0817129db#)
 ## Skills
 
 ### Programming
@@ -42,3 +42,4 @@ Let's connect and create amazing things with technology! 🚀
 [CertificationLink2]: # "Link to Oracle Cloud Data Management 2023 Certified Foundations Associate Certification"
 [CertificationLink3]: # "Link to Oracle Cloud Infrastructure 2023 Certified Foundations Associate Certification"
 [CertificationLink4]: # "Link to SQL and Relational Databases 101 Certification"
+[CertificationLink5]: # "Link to NoSQL and DBaaS 101"
